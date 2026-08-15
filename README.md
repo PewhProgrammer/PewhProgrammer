@@ -20,4 +20,6 @@ Older coursework and personal projects, archived but still browsable:
 ## Latest Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/PewhProgrammer/changelogs/pull/1) in [PewhProgrammer/changelogs](https://github.com/PewhProgrammer/changelogs)
+2. 💪 Opened PR [#1](https://github.com/PewhProgrammer/changelogs/pull/1) in [PewhProgrammer/changelogs](https://github.com/PewhProgrammer/changelogs)
 <!--END_SECTION:activity-->
