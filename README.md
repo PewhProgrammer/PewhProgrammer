@@ -8,7 +8,12 @@ Platform Engineer at [Plain](https://www.plain.com), an API first customer suppo
 ## Currently Working On
 
 - 🌱 **Kaizen** — a personal apps monorepo: dashboard, goals/running/movies tracking, and a 2.5D isometric office sim
-- 📝 [**changelogs**](https://github.com/PewhProgrammer/changelogs) — a zero-build changelog site for my personal projects, published at [pewhprogrammer.github.io/changelogs](https://pewhprogrammer.github.io/changelogs)
+- 🤖 **rocky-agent** — a harness for a personal assistant
+- 📅 **stunning-doodle** — an app to sync plans with friends
+
+## Changelog
+
+Release notes for my personal projects, published at [pewhprogrammer.github.io/changelogs](https://pewhprogrammer.github.io/changelogs) ([source](https://github.com/PewhProgrammer/changelogs)).
 
 ## Latest Activity
 
